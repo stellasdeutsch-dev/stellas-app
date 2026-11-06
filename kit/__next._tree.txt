@@ -1,5 +1,5 @@
-:HL["/stellas-app/_next/static/chunks/1t0dxczc8qgbx.css","style"]
+:HL["/stellas-app/_next/static/chunks/1uo6cc-mheyiv.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"kit","h":96,"c":"$Q2"}]]
-0:{"b":"UB2EOl4r3_0rgah0Dd9pO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"HTAP68k_qWcH4PGm5W6ZO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
