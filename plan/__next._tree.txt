@@ -1,6 +1,6 @@
 :HL["/stellas-app/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/stellas-app/_next/static/chunks/3e7xj-iru6b0_.css","style"]
+:HL["/stellas-app/_next/static/chunks/3loho6ma_7sz2.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"plan","h":96,"c":"$Q2"}]]
-0:{"b":"MSgHwZc3_Gs2xYUFM-7nR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"PtMAbUUxUC4FNfEh0wvQI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
